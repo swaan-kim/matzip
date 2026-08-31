@@ -9,7 +9,8 @@
 <img width="880" height="443" alt="image" src="https://github.com/user-attachments/assets/ebab0aaf-0a22-4a6a-a7f4-27da9e2ab2be" />
 <img width="684" height="322" alt="image" src="https://github.com/user-attachments/assets/a621f6f0-65f6-407c-aab4-d3bcf6f09f3f" />
 <img width="368" height="503" alt="image" src="https://github.com/user-attachments/assets/f9edbde8-c03f-428c-bc7d-f9588c95a002" />
-![Uploading image.png…]()
+<img width="1071" height="430" alt="image" src="https://github.com/user-attachments/assets/b7d45d78-fb7c-4c1d-8878-a8fbef118f86" />
+
 
 ```bash
 pnpm install
