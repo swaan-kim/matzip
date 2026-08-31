@@ -2,6 +2,8 @@
 
 찐맛집 — 맛집 추천 서비스 프론트엔드.
 
+<img width="315" height="356" alt="image" src="https://github.com/user-attachments/assets/8f77c127-8441-43d7-9785-303f15356d69" />
+
 ```bash
 pnpm install
 pnpm dev
